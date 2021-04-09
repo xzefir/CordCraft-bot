@@ -7,6 +7,7 @@ CordCraft is a Discord bot that work with a plugin Minecraft (available on : [Sp
 
 ### Features
 - Available bot language : French and English `?set lang`,
+- Very simple to use,
 - All messages are customizable `?messageFormat`,
 - Full configuration are with Discord commands on your Discord server,
 - Help command to guide you `?help`,

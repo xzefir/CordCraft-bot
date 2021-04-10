@@ -2,7 +2,7 @@
 
 *Logo by [Alex_Ponk](https://twitter.com/Alex__Ponk "Alex_Ponk")*
 
-# CordCraft-bot by Xzefir
+# CordCraft by Xzefir
 CordCraft is a Discord bot that work with a plugin Minecraft (available on : [Sponge](https://github.com/xzefir/CordCraft-sponge "Sponge"), [Spigot](https://github.com/xzefir/CordCraft-spigot "Spigot"), [Forge](https://github.com/xzefir/CordCraft-forge "Forge") and [Fabric](https://github.com/xzefir/CordCraft-fabric "Fabric")). CordCraft allows connection between Minecraft and Discord chat and it is a very light plugin for your server.
 
 ### Features
@@ -15,7 +15,8 @@ CordCraft is a Discord bot that work with a plugin Minecraft (available on : [Sp
 - Send start/stop server message on Discord,
 - Synchronize server chat on one Discord channel,
 - Send message Discord channel to Minecraft server,
-- Webhook or Simple message for Discord message.
+- Webhook or Simple message for Discord message,
+- You can change the Bot prefix.
 
 ### How to use
 1. Invite the bot to your Discord server : **[Invite CordCraft](https://discord.com/oauth2/authorize?client_id=717676762112458774&permissions=2684746816&scope=bot "CordCraft")**
@@ -23,8 +24,14 @@ CordCraft is a Discord bot that work with a plugin Minecraft (available on : [Sp
 3. Follow the Bot's instructions !
 
 ### Sample screenshots
-![](https://cdn.discordapp.com/attachments/723636425936994405/830496087415848970/Capture_decran_2021-04-10_a_19.34.50.png)
+> [`?connect`]
+> 
+> ![](https://cdn.discordapp.com/attachments/723636425936994405/830500437790031952/connect.png)
 
-![](https://cdn.discordapp.com/attachments/723636425936994405/830495725594345552/Capture_decran_2021-04-10_a_19.33.22.png)
+> [`?messageFormat list`]
+> 
+> ![](https://cdn.discordapp.com/attachments/723636425936994405/830500450717532219/messageFormat_list.png)
 
-![](https://cdn.discordapp.com/attachments/723636425936994405/830495851758747678/Capture_decran_2021-04-10_a_19.33.53.png)
+> [`?help`]
+> 
+> ![](https://cdn.discordapp.com/attachments/723636425936994405/830500444618096670/help.png)

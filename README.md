@@ -24,14 +24,14 @@ CordCraft is a Discord bot that work with a plugin Minecraft (available on : [Sp
 3. Follow the Bot's instructions !
 
 ### Sample screenshots
-> [`?connect`]
+> `?connect`
 > 
 > ![](https://cdn.discordapp.com/attachments/723636425936994405/830500437790031952/connect.png)
 
-> [`?messageFormat list`]
+> `?messageFormat list`
 > 
 > ![](https://cdn.discordapp.com/attachments/723636425936994405/830500450717532219/messageFormat_list.png)
 
-> [`?help`]
+> `?help`
 > 
 > ![](https://cdn.discordapp.com/attachments/723636425936994405/830500444618096670/help.png)

@@ -21,3 +21,10 @@ CordCraft is a Discord bot that work with a plugin Minecraft (available on : [Sp
 1. Invite the bot to your Discord server : **[Invite CordCraft](https://discord.com/oauth2/authorize?client_id=717676762112458774&permissions=2684746816&scope=bot "CordCraft")**
 2. Send command `?connect help`
 3. Follow the Bot's instructions !
+
+### Sample screenshots
+![](https://cdn.discordapp.com/attachments/723636425936994405/830496087415848970/Capture_decran_2021-04-10_a_19.34.50.png)
+
+![](https://cdn.discordapp.com/attachments/723636425936994405/830495725594345552/Capture_decran_2021-04-10_a_19.33.22.png)
+
+![](https://cdn.discordapp.com/attachments/723636425936994405/830495851758747678/Capture_decran_2021-04-10_a_19.33.53.png)
